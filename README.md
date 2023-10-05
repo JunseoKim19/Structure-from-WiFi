@@ -6,7 +6,7 @@ to take advantage of this fact by incorporating WiFi signal
 measurements in indoor SLAM (Simultaneous Localization and
 Mapping) systems, termed WiFiSLAM. This paper describes
 recent work in the development of WiFiSLAM systems and
-addresses the challenges currently faced in achieving WiFibased mapping used in typical SLAM applications. A discussion
+addresses the challenges currently faced in achieving WiFi-based mapping used in typical SLAM applications. A discussion
 of the usage of alternative WiFi-based systems is conducted,
 with a focus on the field of research into k-visibility. We
 introduce the novel concept of an inverse k-visibility algorithm
